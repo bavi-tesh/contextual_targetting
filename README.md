@@ -11,7 +11,6 @@ This project implements a data processing and classification pipeline using a BE
 - [Model Training](#model-training)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Project Overview
 
@@ -68,6 +67,3 @@ After training, the model will output the training loss, validation loss, and va
 - BeautifulSoup
 - OpenCV
 - tqdm
-
-## License
-This project is licensed under the MIT License.
